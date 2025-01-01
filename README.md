@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itaru OTA</h1>
-<h3 align="center">An Application Engineer at Tokyo</h3>
+<h3 align="center">A Full-Stack Engineer at Tokyo</h3>
 
-- 🔭 I’m currently working on [Map Geo Safari](https://github.com/MapGeoSafari)
+- 🔭 I’m currently working on [3-shake Inc.](https://3-shake.com/en/)
 
 - 🌱 I’m currently learning **TypeScript, AWS**
 
