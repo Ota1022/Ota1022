@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Itaru OTA</h1>
-<h3 align="center">A Full-Stack Engineer at Tokyo</h3>
 
 - 🔭 I’m currently working on [3-shake Inc.](https://3-shake.com/en/)
 
